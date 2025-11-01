@@ -17,7 +17,7 @@ It reflects a real-world DevOps setup integrating Infrastructure-as-Code (IaC), 
 - **GitHub** – Source-code & pipeline storage  
 - **Docker** – Jenkins agents & build containers  
 
-*Workflow*:-
+**Workflow**:-
 
 1. Developer pushes code to GitHub.  
 2. Jenkins (webhook-triggered) starts the pipeline.  
