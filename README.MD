@@ -18,7 +18,6 @@ It reflects a real-world DevOps setup integrating Infrastructure-as-Code (IaC), 
 - **Docker** – Jenkins agents & build containers  
 
 **Workflow**:-
-
 1. Developer pushes code to GitHub.  
 2. Jenkins (webhook-triggered) starts the pipeline.  
 3. Terraform provisions AWS resources (VPC, EC2).  
